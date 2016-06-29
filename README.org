@@ -1,0 +1,32 @@
+* Ergonomic Emacs Keyboard Layout for Thinkpads
+
+On my Desktop I use a [[https://www.trulyergonomic.com/store/index.php][Truly Ergonomic Keyboard]]
+in conjunction with xah-fly-keys or ergoemacs modes for emacs,
+ and the [[http://xahlee.info/kbd/Truly_Ergonomic_keyboard_layout.html][ergoemacs-xah Mode Layout, Dvorak from Xah Lee]].
+
+Because I dont find it to ergonomic to sit long hours on the desk, 
+I thought of a way to have some similar ergonomic experience with a notebook.
+
+Thinkpad have pretty good laptop keyboards, they are often descriped to have a mechanical feeling.
+But they have normal country specific keyboard layouts.
+
+The main problem with the common keyboard layout especialy for programmer is in my oppinion the lack
+of many thumb keys, so you stress out your pinky to much, instead of using your strong thumb.
+
+So I looked around and saw that the japanese Layout has much more thumb keys. great what I searched for.
+But they still use the normal layout, so mapped not the most used keys to this thumb keys.
+
+So I figured out how to map the keys the way I want and this is the result.
+
+* Result
+
+[[file:x220-jap-keyboard.jpg]]
+
+* Lisense
+
+Free to use
+
+
+* Todo
+
+- add a description how you activate that keyboard config file under Linux

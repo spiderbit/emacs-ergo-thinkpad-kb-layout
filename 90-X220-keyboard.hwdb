@@ -1,0 +1,15 @@
+# Thinkpad X220
+keyboard:dmi:bvn*:bvr*:bd*:svnLENOVO*:pn*:pvrThinkPadX220*
+ KEYBOARD_KEY_7b=compose			# 1 left from space key -> menu
+ KEYBOARD_KEY_39=enter				# space key -> enter
+ KEYBOARD_KEY_79=space				# 1 right from space -> space
+ KEYBOARD_KEY_70=tab				# 2 right from space key -> backspace
+ KEYBOARD_KEY_0f=backspace			# tab -> backspace
+ KEYBOARD_KEY_3a=home				# capslock -> home
+ KEYBOARD_KEY_1c=end				# enter -> end
+# KEYBOARD_KEY_e0 KEYBOARD_KEY_5d=tab		# menu key -> tab
+ KEYBOARD_KEY_0e=backspace			# backspace key -> backspace
+ KEYBOARD_KEY_7d=backspace			# 1 left from backspace key -> backspace
+
+# KEYBOARD_KEY_108=36				# alt-key -> enter
+# KEYBOARD_KEY_105=36				# ctrl key -> enter
