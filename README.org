@@ -22,7 +22,7 @@ So I figured out how to map the keys the way I want and this is the result.
 
 [[file:x220-jap-keyboard.jpg]]
 
-* Lisense
+* License
 
 Free to use
 
